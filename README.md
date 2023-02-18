@@ -25,6 +25,9 @@ Insert gif or link to demo
 - Uses Express.js API 
 - Uses MySQL
 
+## Credits
+
+Starter code was provided by Rutgers Coding Bootcamp and Kevin Ferguson. 
 
 ## License
 
